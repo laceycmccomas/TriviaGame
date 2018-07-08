@@ -1,0 +1,19 @@
+body{
+	background-color: palegoldenrod;
+	text-align: center;
+}
+h2{
+    font-size: 50px;
+    font: bold;
+    color: purple;
+}
+
+.text-muted{
+	color: purple;
+}
+.last-seconds{
+  color: yellow;
+}
+.option{
+  margin: 15px;
+}
